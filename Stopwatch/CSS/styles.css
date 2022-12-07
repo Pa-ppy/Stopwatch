@@ -1,0 +1,28 @@
+body{
+	margin: 17% 38%;
+
+}
+#stopwatch{
+	text-align: center;
+	font-size: 30px;
+	height: 50px;
+}
+#clock{
+	padding: 10px;
+	background-color: black;
+	color: white;
+
+}
+#container{
+	width: 200px;
+	border: 2px solid black;
+}
+#btnSt, #btnRs{
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 80px;
+	height: 40px;
+	background-color: skyblue;
+	color: black;
+}
